@@ -1,0 +1,9 @@
+2020-06-19T10:50:45+00:00 CRITICAL Uncaught Error: Call to a member function get_catalog_visibility() on boolean in C:\xampp\htdocs\Bookings\wp-content\plugins\easyreservations\includes\admin\meta-boxes\class-er-meta-box-resource-images.php:27
+Stack trace:
+#0 C:\xampp\htdocs\Bookings\wp-admin\includes\template.php(1343): ER_Meta_Box_Resource_Images::output(Object(WP_Post), Array)
+#1 C:\xampp\htdocs\Bookings\wp-admin\includes\post.php(2265): do_meta_boxes(Object(WP_Screen), 'side', Object(WP_Post))
+#2 C:\xampp\htdocs\Bookings\wp-admin\edit-form-blocks.php(409): the_block_editor_meta_boxes()
+#3 C:\xampp\htdocs\Bookings\wp-admin\post-new.php(72): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Bookings\wp-content\plugins\easyreservations\includes\admin\meta-boxes\class-er-meta-box-resource-images.php on line 27
+

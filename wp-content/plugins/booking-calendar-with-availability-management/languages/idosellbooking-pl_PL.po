@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: pl_PL\n"
+
+#: TXTDeveloper
+msgid "IdoSellBooking"
+msgstr "IdoSell Booking"
+
+#: TXTDeveloper
+msgid "rezerwujPrzezInternet"
+msgstr "Rezerwuj online"
+
+msgid "idPanelu"
+msgstr "Identyfikator panelu IdoSell Booking"
+
+msgid "domyslnyTekstNaPrzycisku"
+msgstr "Domyślny tekst na przycisku"
+
+msgid "wlasnyTekstNaPrzycisku"
+msgstr "Własny tekst na przycisku"
+
+msgid "domyslnaSzerokoscWidgetu"
+msgstr "Domyślna szerokość widgetu"
+
+msgid "tytulWidgetu"
+msgstr "Tytuł"
+
+#: TXTDeveloper
+msgid "Wyswietl"
+msgstr "Wyświetl"
+
+msgid "tekstPrzycisku"
+msgstr "Tekst przycisku"
+
+msgid "szerokoscWidgetuIdoSellBooking"
+msgstr "Szerokość widgetu IdoSell Booking"
+
+msgid "tekstNad"
+msgstr "Tekst nad przyciskiem widgetu / widgetem"
+
+msgid "tekstPod"
+msgstr "Tekst pod przyciskiem widgetu / widgetem"
+
+#: TXTDeveloper
+msgid "Polozenie"
+msgstr "Położenie"
+
+#: TXTDeveloper
+msgid "PlywanieZeStrona"
+msgstr "Pływanie ze stroną"
+
+msgid "ustawienia"
+msgstr "Ustawienia"
+
+#: TXTDeveloper
+msgid "widget"
+msgstr "widget"
+
+#: TXTDeveloper
+msgid "przycisk"
+msgstr "przycisk"
+
+#: TXTDeveloper
+msgid "domyslny"
+msgstr "domyślny"
+
+#: TXTDeveloper
+msgid "domyslna"
+msgstr "domyślna"
+
+msgid "wlasny"
+msgstr "własny"
+
+#: TXTDeveloper
+msgid "lewa"
+msgstr "lewa"
+
+#: TXTDeveloper
+msgid "prawa"
+msgstr "prawa"
+
+#: TXTDeveloper
+msgid "gora"
+msgstr "góra"
+
+#: TXTDeveloper
+msgid "srodek"
+msgstr "środek"
+
+#: TXTDeveloper
+msgid "dol"
+msgstr "dół"
+
+#: TXTDeveloper
+msgid "tak"
+msgstr "tak"
+
+#: TXTDeveloper
+msgid "nie"
+msgstr "nie"
+
+#: TXTDeveloper
+msgid "tekstNad"
+msgstr "Tekst nad przyciskiem widgetu / widgetem"
+
+#: TXTDeveloper
+msgid "tekstPod"
+msgstr "Tekst pod przyciskiem widgetu / widgetem"
+
+msgid "nieOkreslonoIdPanelu"
+msgstr "Nie określono identyfikatora panelu IdoSell Booking"
+
+msgid "nieOkreslonoTekstuWyswietlanegoNaPrzycisku"
+msgstr "Nie określono tekstu wyświetlanego na przycisku"
+
+msgid "nieOkreslonoTekstuWlasnegownegoWyswietlanegoNaPrzycisku"
+msgstr "Nie określono tekstu własnego wyświetlanego na przycisku"
+
+msgid "nieprawidlowoOkreslonaSzerokoscWidgetuIdoSellBooking"
+msgstr "Nieprawidłowo określona szerokość widgetu IdoSell Booking"
+
+msgid "przyciskIdoSellBookingPrzylegajacyDoKrawedziPrzegladarki"
+msgstr "Przycisk IdoSell Booking przylegający do krawędzi przeglądarki"
+
+msgid "widgetDescription"
+msgstr "Przycisk uruchamiający widget lub cały widget IdoSell Booking"
+
+msgid "sideButtonWidgetDescription"
+msgstr "Przycisk uruchamiający widget IdoSell Booking przylegający do krawędzi przeglądarki"
+
+msgid "Plugin which enables publishing IdoSell Booking widget or button on a webpage"
+msgstr "Plugin umożliwiający wstawienie na stronie widgetu lub przycisku uruchamiającego widget systemu rezerwacji IdoSell Booking"
+
+#: TXTDeveloper
+msgid "Demo"
+msgstr "Demo"
+
+msgid "jestemKlientemIdosellBookingWyswietlMojWidget"
+msgstr "Jestem klientem IdoSell Booking - wyświetl mój widget systemu rezerwacji"
+
+#: TXTDeveloper
+msgid "trwaUruchamianieSystemuRezerwacji"
+msgstr "Trwa uruchamianie systemu rezerwacji..."

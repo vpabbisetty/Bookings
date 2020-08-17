@@ -1,0 +1,3 @@
+.form-table:first-of-type tr:first-of-type th:first-of-type {
+    display: none;
+}

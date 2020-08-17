@@ -1,0 +1,47 @@
+/*Custom css for plugin*/
+.datepick-month a{background-color: #fff !important;}
+.datepick-month td{border:none;}
+.datepick-month td .datepick-selected{
+
+	background-color:#e45c5c !important;
+	color:#fff;
+}
+.datepick-month{border:0px !important;}
+.datepick-ctrl {
+    background-color: #fff;
+}
+.datepick-ctrl a{
+    color: #000;
+}
+.datepick-month-header{display:flex;}
+a.datepick-cmd {
+    height: 2.5em;
+}
+.datepick-month-header select{
+    height: 2.4em;}
+.datepick{width:240px;}
+.datepick-month {width:100%;}
+.datepick .datepick-month table thead tr{height:40px;
+vertical-align: bottom;}
+.datepick-month-year{padding-left: 10px !important;}
+.datepick-cmd-clear{padding-left: 15px;}
+.datepick-cmd-close{padding-right: 15px;}
+input#addAmount {
+    width: 95px;
+    border: 1px solid #000;
+    margin-left: 10px;
+    float: left;
+}
+select#addPeriod {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* margin-top: -12px; */
+    border: 1px solid #000;
+    float: right;
+}
+.datepick-ctrl .datepick-cmd:hover {
+    background-color: #fff;
+}

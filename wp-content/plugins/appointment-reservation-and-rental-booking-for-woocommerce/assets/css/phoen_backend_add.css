@@ -1,0 +1,144 @@
+.phoen-report-status.status-processing {
+					background: #c6e1c6 none repeat scroll 0 0;
+					color: #5b841b;
+				}
+				.phoen-report-status.status-completed {
+					background: #c8d7e1 none repeat scroll 0 0;
+					color: #2e4453;
+				}
+				
+				.phoen-report-status.status-on-hold {
+					background: #f8dda7 none repeat scroll 0 0;
+					color: #94660c;
+				}
+				.phoen-report-status.status-failed {
+					background: #eba3a3 none repeat scroll 0 0;
+					color: #761919;
+				}
+				
+				.phoen-report-status.status-refunded,
+				.phoen-report-status.status-cancelled {
+					background: #e5e5e5 none repeat scroll 0 0;
+					border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+					border-radius: 4px;
+					color: #777;
+				}
+				
+				.phoen-report-status {
+					border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+					background: #e5e5e5 none repeat scroll 0 0;
+					border-radius: 4px;
+					color: #777;
+					cursor: inherit !important;
+					display: inline-flex;
+					line-height: 2.5em;
+					margin: -0.25em 0;
+					max-width: 100%;
+					white-space: nowrap;
+				}
+				
+				.order_id a {
+				display: inline-block;
+			}
+			.order_id small {
+				display: block;
+				font-size: 13px;
+			}
+			
+			#phoen_show_calender {
+				margin: 0 auto;
+			  }
+			  
+			  .phoen-report-status span {
+				  padding: 0 10px;
+			  }
+			  
+			  .phoen_filter {
+				  margin: 0 0 30px;
+			  }
+			  
+			  #phoen_show_calender .fc-state-default {
+				  box-shadow: none;
+				  background-image: none;
+			  }
+			  
+			 #phoen_show_calender .fc-state-default {
+				background: #f7f7f7 none repeat scroll 0 0;
+				border-color: #ccc;
+				color: #555;
+				opacity: 1;
+				text-transform: capitalize;
+			}
+			
+			#phoen_show_calender .fc-basicDay-button.fc-state-active,
+			#phoen_show_calender .fc-basicWeek-button.fc-state-active,
+			#phoen_show_calender .fc-state-default.fc-month-button.fc-state-active {
+				background-color: #eee;
+			}
+			
+			#phoen_show_calender .fc-day-grid-event {
+				border-radius: 6px !important;
+			}
+			
+			#phoen_show_calender .fc-title {
+				display: inline-block;
+				font-size: 12px;
+				padding: 5px 10px;
+			}
+			
+			#phoen_show_calender thead th.fc-day-header {
+				padding: 20px 0;
+			}
+			
+			.tablenav.top.phoen_filter {
+				float: left;
+				width: 60%;
+			}
+			
+			.tablenav.top.phoen_filter input.phoen_min_from,
+			.tablenav.top.phoen_filter input.phoen_min_to {
+				width: 100px;
+			}
+			
+			.phoen_color_help {
+				float: left;
+				width: 40%;
+			}
+			
+			.phoen_color_help ul li span {
+				border-radius: 50%;
+				display: inline-block;
+				height: 15px;
+				margin: 5px 10px 5px 0;
+				vertical-align: middle;
+				width: 15px;
+				background-color: #777;
+			}
+			
+			.phoen_color_help ul li.phoen_color_comoleted span {
+				background-color: #2e4453;
+			}
+			
+			.phoen_color_help ul li.phoen_color_failed span {
+				background-color: #761919;
+			}
+			
+			.phoen_color_help ul li.phoen_color_onhold span {
+				background-color: #94660c;
+			}
+			
+			.phoen_color_help ul li.phoen_color_processing span {
+				background-color: #5b841b;
+			}
+			
+			.phoen_color_help ul li {
+				display: inline-block;
+				margin-left: 20px;
+			}
+			
+			.phoen_color_help ul {
+				margin-top: 0px;
+				margin-bottom: 40px;
+				text-align: right;
+			}
+			  

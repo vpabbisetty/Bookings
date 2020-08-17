@@ -1,0 +1,255 @@
+.woocommerce-variation-price .phoen_arbpw_show_days,
+.woocommerce-variation-price .phoen_arbpw_show_price_amount {
+				
+	display:block;
+}
+
+.phoen_arbpw_span_for_price .phoen_arbpw_show_days,
+.phoen_arbpw_span_for_price .phoen_arbpw_show_price_amount  {
+	
+	display:block;
+}
+			
+.custom-date-style {
+		background-color: red !important;
+	}
+
+.input{	
+}
+
+.picker__day {
+    background: #6daf42 none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 15px 0;
+}
+
+.picker__day {
+  text-align: center;
+}
+
+.phoen_arbpw_calander_picker input.phoen_arbpw_date_val {
+	background: rgba(0, 0, 0, 0) url("../images/calender.png") no-repeat scroll 8px center ;
+	padding-left: 40px !important;
+}
+
+.phoen_arbpw_calander_picker.phoen_time_class input.phoen_arbpw_date_val {
+	background: rgba(0, 0, 0, 0) url("../images/clock.png") no-repeat scroll 8px center ;
+	padding-left: 40px !important;
+}
+
+.phoen_arbpw_calander_picker label {
+    font-weight: 600;
+    margin-top: 20px;
+	display: block;
+}
+
+.phoen_arbpw_calander_picker {
+    margin-bottom: 15px;
+}
+
+.input-wide{
+	width: 500px;
+}
+
+.picker--opened .picker__frame {
+    bottom: auto;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+}
+
+.picker--opened .picker__holder {
+	z-index: 99;
+}
+
+.picker__day--outfocus {
+    background: rgba(109, 175, 66, 0.8) none repeat scroll 0 0;
+    color: #dddddd;
+}
+
+.picker__day--infocus:hover, 
+.picker__day--outfocus:hover,
+.picker__day--selected, 
+.picker__day--selected:hover, 
+.picker--focused .picker__day--selected {
+    background: #3d7717 none repeat scroll 0 0;
+	color: #fff;
+}
+
+.picker__day--disabled, .picker__day--disabled:hover, 
+.picker--focused .picker__day--disabled {
+	background: #f5f5f5;
+	color: #dddddd;
+}
+
+.picker__button--today, 
+.picker__button--clear, 
+.picker__button--close {
+    color: #333;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.picker__table {
+    border-collapse: unset;
+}
+
+.picker__day--highlighted:hover, 
+.picker--focused .picker__day--highlighted {
+	background: #3d7717;
+	color: #fff;
+}
+
+.picker__frame {
+	max-width: 525px;
+}
+
+.picker__box thead th,
+.picker__table td {
+	border: none;
+	padding: 0 !important;
+	text-align: center;
+}
+
+.picker__button--today:focus, 
+.picker__button--clear:focus, 
+.picker__button--close:focus,
+.picker__button--today:hover, 
+.picker__button--clear:hover, 
+.picker__button--close:hover {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border-bottom-color: #f5f5f5;
+	outline: none;
+}
+
+.picker__footer {
+	margin-bottom: 15px;
+}
+
+.picker__nav--prev:hover, 
+.picker__nav--next:hover {
+	background: transparent;
+}
+
+.picker__box thead th {
+    font-size: 12px;
+    padding: 20px 0 10px;
+    text-align: center;
+}
+
+.picker__nav--prev::before, 
+.picker__nav--next::before {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-2.png") no-repeat scroll left top / cover ;
+    border-bottom: medium none;
+    border-right: medium none;
+    border-top: medium none;
+    content: "";
+    display: block;
+    height: 22px;
+    margin: 0 auto;
+    width: 12px;
+}
+
+.picker__nav--next::before {
+    background: rgba(0, 0, 0, 0) url("../images/arrow-1.png") no-repeat scroll left top / cover ;
+	border-left: none;
+}
+
+.picker__nav--prev {
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+.picker__nav--next {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+/*=============== Date LIst =================*/
+
+.picker__list {
+	padding: 0;
+}
+
+.picker__list-item--selected, 
+.picker__list-item--selected:hover, 
+.picker--focused .picker__list-item--selected,
+.picker__list-item--highlighted:hover, 
+.picker--focused .picker__list-item--highlighted {
+    background: #6daf42 none repeat scroll 0 0;
+	color: #fff;
+}
+.picker__list-item--highlighted {
+    border-color: #6daf42;
+}
+
+.picker__list-item:hover {
+    background: rgba(109, 175, 66, 0.8) none repeat scroll 0 0;
+    border-color: rgba(109, 175, 66, 0.9);
+	color: #fff;
+}
+
+.picker--time .picker__button--clear {
+	margin: 0;
+	width: 100%;
+	border-radius: 0 0 4px 4px ;
+}
+
+.picker__box {
+	border: none;
+}
+
+.picker__footer,
+.picker__header {
+	display: inline-block;
+	width: 100%;
+}
+
+.phoen_days_per_price {
+    list-style: outside none none;
+	padding: 0;
+	margin: 0 0 30px; 
+}
+
+.phoen_days_per_price li {
+    display: inline-block;
+    margin-right: 60px;
+	position: relative;
+}
+
+.phoen_days_per_price li:first-child::after {
+    background-color: #c8c8c8;
+    content: "";
+    height: 40px;
+    margin-top: -20px;
+    position: absolute;
+    right: -30px;
+    top: 50%;
+    width: 1px;
+}
+
+.phoen_days_per_price li:last-child {
+    margin-right: 0px;
+}
+
+.phoen_days_per_price li p {
+    color: #1a1a1a;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.phoen_days_per_price li p span {
+    color: #6d6d6d;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+/*=============== Date LIst =================*/

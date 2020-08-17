@@ -1,0 +1,1824 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-27 12:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woo_filter_by_color.php:54 woo_filter_by_color.php:123
+msgid "Color"
+msgstr ""
+
+#: woo_filter_by_color.php:57 woo_filter_by_color.php:125
+msgid "Use color picker to pick one color."
+msgstr ""
+
+#: woo_filter_by_color.php:62 woo_filter_by_color.php:129
+msgid "Thumbnail Image"
+msgstr ""
+
+#: woo_filter_by_color.php:66 woo_filter_by_color.php:132
+msgid "Choose Image"
+msgstr ""
+
+#: woo_filter_by_color.php:67 woo_filter_by_color.php:133
+msgid "Remove Image"
+msgstr ""
+
+#: woo_filter_by_color.php:91 woo_filter_by_color.php:157
+msgid "Choose an image"
+msgstr ""
+
+#: woo_filter_by_color.php:93 woo_filter_by_color.php:159
+msgid "Use image"
+msgstr ""
+
+#: register_post_type.php:43
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:44
+msgctxt "post type singular name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:45
+msgid "All Portfolios"
+msgstr ""
+
+#: register_post_type.php:46
+msgctxt "Team"
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:47
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:48
+msgid "Edit Portfolio"
+msgstr ""
+
+#: register_post_type.php:49
+msgid "New Portfolio"
+msgstr ""
+
+#: register_post_type.php:50
+msgid "View Portfolio"
+msgstr ""
+
+#: register_post_type.php:51
+msgid "Search Portfolio"
+msgstr ""
+
+#: register_post_type.php:52
+msgid "No Portfolio found"
+msgstr ""
+
+#: register_post_type.php:53
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: register_post_type.php:55
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:57
+msgid "Portfolio"
+msgstr ""
+
+#: register_post_type.php:78 register_post_type.php:564
+#: register_post_type.php:725
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:79 register_post_type.php:565
+#: register_post_type.php:726
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: register_post_type.php:80 register_post_type.php:566
+#: register_post_type.php:727
+msgid "Search Categories"
+msgstr ""
+
+#: register_post_type.php:81 register_post_type.php:567
+#: register_post_type.php:728
+msgid "All Categories"
+msgstr ""
+
+#: register_post_type.php:82 register_post_type.php:568
+#: register_post_type.php:729
+msgid "Parent Category"
+msgstr ""
+
+#: register_post_type.php:83 register_post_type.php:569
+#: register_post_type.php:730
+msgid "Parent Category:"
+msgstr ""
+
+#: register_post_type.php:84 register_post_type.php:570
+#: register_post_type.php:731
+msgid "Edit Category"
+msgstr ""
+
+#: register_post_type.php:85 register_post_type.php:571
+#: register_post_type.php:732
+msgid "Update Category"
+msgstr ""
+
+#: register_post_type.php:86 register_post_type.php:572
+#: register_post_type.php:733
+msgid "Add New Category"
+msgstr ""
+
+#: register_post_type.php:87 register_post_type.php:573
+#: register_post_type.php:734
+msgid "New Category Name"
+msgstr ""
+
+#: register_post_type.php:88 register_post_type.php:574
+#: register_post_type.php:735
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:103
+msgid "Enter the portfolio title here"
+msgstr ""
+
+#: register_post_type.php:213 register_post_type.php:472
+#: register_post_type.php:633
+msgid "Image"
+msgstr ""
+
+#: register_post_type.php:338
+msgctxt "post type general name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:339
+msgctxt "post type singular name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:340
+msgid "All Team Members"
+msgstr ""
+
+#: register_post_type.php:341
+msgctxt "Team"
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:342
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:343
+msgid "Edit Member"
+msgstr ""
+
+#: register_post_type.php:344
+msgid "New Member"
+msgstr ""
+
+#: register_post_type.php:345
+msgid "View Member"
+msgstr ""
+
+#: register_post_type.php:346
+msgid "Search Member"
+msgstr ""
+
+#: register_post_type.php:347
+msgid "No Member found"
+msgstr ""
+
+#: register_post_type.php:348
+msgid "No Member found in Trash"
+msgstr ""
+
+#: register_post_type.php:350
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:352
+msgid "Team"
+msgstr ""
+
+#: register_post_type.php:373
+msgid "Enter the member name here"
+msgstr ""
+
+#: register_post_type.php:472 metaboxes/team_options.php:6
+msgid "Role"
+msgstr ""
+
+#: register_post_type.php:474
+msgid "Member name"
+msgstr ""
+
+#: register_post_type.php:529
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:530
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: register_post_type.php:531
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:532
+msgid "Add New Testimonial"
+msgstr ""
+
+#: register_post_type.php:533
+msgid "Edit Testimonial"
+msgstr ""
+
+#: register_post_type.php:534
+msgid "New Testimonial"
+msgstr ""
+
+#: register_post_type.php:535
+msgid "All Testimonials"
+msgstr ""
+
+#: register_post_type.php:536
+msgid "View Testimonial"
+msgstr ""
+
+#: register_post_type.php:537
+msgid "Search Testimonials"
+msgstr ""
+
+#: register_post_type.php:538
+msgid "No Testimonials Found"
+msgstr ""
+
+#: register_post_type.php:539
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: register_post_type.php:541
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:589
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: register_post_type.php:690
+msgctxt "post type general name"
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:691
+msgctxt "post type singular name"
+msgid "Logo"
+msgstr ""
+
+#: register_post_type.php:692 register_post_type.php:864
+msgctxt "logo"
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:693
+msgid "Add New Logo"
+msgstr ""
+
+#: register_post_type.php:694
+msgid "Edit Logo"
+msgstr ""
+
+#: register_post_type.php:695
+msgid "New Logo"
+msgstr ""
+
+#: register_post_type.php:696
+msgid "All Logos"
+msgstr ""
+
+#: register_post_type.php:697
+msgid "View Logo"
+msgstr ""
+
+#: register_post_type.php:698
+msgid "Search Logos"
+msgstr ""
+
+#: register_post_type.php:699
+msgid "No Logos Found"
+msgstr ""
+
+#: register_post_type.php:700
+msgid "No Logos Found In Trash"
+msgstr ""
+
+#: register_post_type.php:702
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:749 register_post_type.php:780
+msgid "Logo Settings"
+msgstr ""
+
+#: register_post_type.php:750
+msgid "Settings"
+msgstr ""
+
+#: register_post_type.php:783
+msgid "Image Size"
+msgstr ""
+
+#: register_post_type.php:784
+msgid "You must regenerate thumbnails after changing"
+msgstr ""
+
+#: register_post_type.php:788
+msgid "Image width"
+msgstr ""
+
+#: register_post_type.php:791
+msgid "Input image width (In pixels)"
+msgstr ""
+
+#: register_post_type.php:795
+msgid "Image height"
+msgstr ""
+
+#: register_post_type.php:798
+msgid "Input image height (In pixels)"
+msgstr ""
+
+#: register_post_type.php:802
+msgid "Crop"
+msgstr ""
+
+#: register_post_type.php:808
+msgid "Crop image after uploading"
+msgstr ""
+
+#: register_post_type.php:813
+msgid "Slider Responsive Options"
+msgstr ""
+
+#: register_post_type.php:818
+msgid "Breakpoint from"
+msgstr ""
+
+#: register_post_type.php:822
+msgid "Items"
+msgstr ""
+
+#: register_post_type.php:828
+msgid "Save changes"
+msgstr ""
+
+#: register_post_type.php:829
+msgid "Reset"
+msgstr ""
+
+#: register_post_type.php:862
+msgctxt "post type general name"
+msgid "Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:863
+msgctxt "post type singular name"
+msgid "Footer Block"
+msgstr ""
+
+#: register_post_type.php:865
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:866
+msgid "Edit Footer Block"
+msgstr ""
+
+#: register_post_type.php:867
+msgid "New Footer Block"
+msgstr ""
+
+#: register_post_type.php:868
+msgid "All Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:869
+msgid "View Footer Block"
+msgstr ""
+
+#: register_post_type.php:870
+msgid "Search Footer Block"
+msgstr ""
+
+#: register_post_type.php:871
+msgid "No Footer Blocks Found"
+msgstr ""
+
+#: register_post_type.php:872
+msgid "No Footer Blocks Found In Trash"
+msgstr ""
+
+#: register_post_type.php:874
+msgid "Footer Blocks"
+msgstr ""
+
+#: woo_term.php:27 woo_term.php:85
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: woo_term.php:34 woo_term.php:101
+msgid "Upload/Add image"
+msgstr ""
+
+#: woo_term.php:35 woo_term.php:102
+msgid "Remove image"
+msgstr ""
+
+#: woo_term.php:40 woo_term.php:108
+msgid "Layout"
+msgstr ""
+
+#: woo_term.php:42 woo_term.php:53 woo_term.php:63 woo_term.php:111
+#: woo_term.php:124 woo_term.php:136 metaboxes/portfolio_options.php:31
+#: metaboxes/post_options.php:5 metaboxes/post_options.php:24
+#: metaboxes/product_options.php:5 metaboxes/product_options.php:24
+#: metaboxes/product_options.php:61 metaboxes/page_options.php:10
+#: metaboxes/page_options.php:19 metaboxes/page_options.php:50
+#: metaboxes/page_options.php:98 metaboxes/page_options.php:127
+#: metaboxes/page_options.php:180 metaboxes/page_options.php:193
+#: widgets/mailchimp_subscription.php:105 widgets/products.php:321
+msgid "Default"
+msgstr ""
+
+#: woo_term.php:43 woo_term.php:112 metaboxes/post_options.php:25
+#: metaboxes/product_options.php:25 metaboxes/page_options.php:62
+msgid "Fullwidth"
+msgstr ""
+
+#: woo_term.php:44 woo_term.php:51 woo_term.php:113 woo_term.php:121
+#: metaboxes/post_options.php:26 metaboxes/post_options.php:34
+#: metaboxes/product_options.php:26 metaboxes/product_options.php:34
+#: metaboxes/page_options.php:63 metaboxes/page_options.php:71
+msgid "Left Sidebar"
+msgstr ""
+
+#: woo_term.php:45 woo_term.php:61 woo_term.php:114 woo_term.php:133
+#: metaboxes/post_options.php:27 metaboxes/post_options.php:42
+#: metaboxes/product_options.php:27 metaboxes/product_options.php:42
+#: metaboxes/page_options.php:64 metaboxes/page_options.php:79
+msgid "Right Sidebar"
+msgstr ""
+
+#: woo_term.php:46 woo_term.php:115 metaboxes/post_options.php:28
+#: metaboxes/product_options.php:28 metaboxes/page_options.php:65
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: functions.php:210
+msgid "Tweet"
+msgstr ""
+
+#: functions.php:214
+msgid "Share"
+msgstr ""
+
+#: functions.php:219
+msgid "Pinterest"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:385 shortcodes/content_shortcodes.php:386
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:513
+msgid "All"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:650 shortcodes/content_shortcodes.php:651
+msgid "You liked it"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:650 shortcodes/content_shortcodes.php:651
+msgid "Like it"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1444
+#: shortcodes/content_shortcodes.php:1483
+msgid "Post by "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1456
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1697
+msgid " on "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1699
+msgid "Twitter.com"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1731 widgets/twitter.php:118
+msgid "1 min ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1734 widgets/twitter.php:121
+msgid " min ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1737 widgets/twitter.php:124
+msgid "1 hour ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1740 widgets/twitter.php:127
+msgid " hours ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1743 widgets/twitter.php:130
+msgid "yesterday"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1746 widgets/twitter.php:133
+msgid " days ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1750 widgets/twitter.php:137
+msgid "1 month ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1750 widgets/twitter.php:137
+msgid " months ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1753 widgets/twitter.php:140
+msgid "1 year ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1753 widgets/twitter.php:140
+msgid " years ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1853 shortcodes/woo_shortcodes.php:619
+msgid "Days"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1861 shortcodes/woo_shortcodes.php:627
+msgid "Hours"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1869 shortcodes/woo_shortcodes.php:635
+msgid "Mins"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1877 shortcodes/woo_shortcodes.php:643
+msgid "Secs"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:6
+msgid "Portfolio URL"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:7
+msgid "Enter URL to the live version of the project"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:13 metaboxes/post_options.php:78
+#: metaboxes/product_options.php:103
+msgid "Video URL"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:14
+msgid ""
+"Enter Youtube or Vimeo video URL. Display this video instead of the featured "
+"image on the detail page"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:20
+msgid "Background Color"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:21
+msgid "Used for the shortcode. It will display this background color on hover"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:27
+msgid "Custom Field"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:32 metaboxes/product_options.php:62
+msgid "Override"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:38
+msgid "Custom Field Title"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:45
+msgid "Custom Field Content"
+msgstr ""
+
+#: metaboxes/logo_options.php:6
+msgid "Logo URL"
+msgstr ""
+
+#: metaboxes/logo_options.php:13 widgets/single_image.php:78
+#: widgets/instagram.php:136
+msgid "Target"
+msgstr ""
+
+#: metaboxes/logo_options.php:17 widgets/single_image.php:81
+#: widgets/instagram.php:138
+msgid "Self"
+msgstr ""
+
+#: metaboxes/logo_options.php:18 widgets/single_image.php:80
+msgid "New Window Tab"
+msgstr ""
+
+#: metaboxes/post_options.php:13 metaboxes/post_options.php:20
+msgid "Post Layout"
+msgstr ""
+
+#: metaboxes/post_options.php:50 metaboxes/product_options.php:89
+#: metaboxes/page_options.php:201
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: metaboxes/post_options.php:57
+msgid "Post Audio"
+msgstr ""
+
+#: metaboxes/post_options.php:64
+msgid "Audio URL"
+msgstr ""
+
+#: metaboxes/post_options.php:65
+msgid "Enter MP3, OGG, WAV file URL or SoundCloud URL"
+msgstr ""
+
+#: metaboxes/post_options.php:71
+msgid "Post Video"
+msgstr ""
+
+#: metaboxes/post_options.php:79 metaboxes/product_options.php:104
+msgid "Enter Youtube or Vimeo video URL"
+msgstr ""
+
+#: metaboxes/product_options.php:13 metaboxes/product_options.php:20
+msgid "Product Layout"
+msgstr ""
+
+#: metaboxes/product_options.php:50 metaboxes/product_options.php:57
+msgid "Custom Tab"
+msgstr ""
+
+#: metaboxes/product_options.php:68
+msgid "Custom Tab Title"
+msgstr ""
+
+#: metaboxes/product_options.php:75
+msgid "Custom Tab Content"
+msgstr ""
+
+#: metaboxes/product_options.php:82
+msgid "Breadcrumbs"
+msgstr ""
+
+#: metaboxes/product_options.php:96
+msgid "Video"
+msgstr ""
+
+#: metaboxes/team_options.php:13
+msgid "Profile Link"
+msgstr ""
+
+#: metaboxes/team_options.php:20
+msgid "Facebook Link"
+msgstr ""
+
+#: metaboxes/team_options.php:27
+msgid "Twitter Link"
+msgstr ""
+
+#: metaboxes/team_options.php:34
+msgid "LinkedIn Link"
+msgstr ""
+
+#: metaboxes/team_options.php:41
+msgid "RSS Link"
+msgstr ""
+
+#: metaboxes/team_options.php:48
+msgid "Dribbble Link"
+msgstr ""
+
+#: metaboxes/team_options.php:55
+msgid "Pinterest Link"
+msgstr ""
+
+#: metaboxes/team_options.php:62
+msgid "Instagram Link"
+msgstr ""
+
+#: metaboxes/team_options.php:69 widgets/social_icons.php:192
+msgid "Custom Link"
+msgstr ""
+
+#: metaboxes/team_options.php:76
+msgid "Custom Link Icon Class"
+msgstr ""
+
+#: metaboxes/team_options.php:77
+msgid "Use FontAwesome Class. Ex: fa-vimeo-square"
+msgstr ""
+
+#: metaboxes/feature_options.php:6 metaboxes/testimonial_options.php:20
+msgid "URL"
+msgstr ""
+
+#: metaboxes/feature_options.php:7
+msgid ""
+"Enter an URL that applies to this feature. For example: http://theme-sky.com/"
+msgstr ""
+
+#: metaboxes/page_options.php:39 metaboxes/page_options.php:58
+msgid "Page Layout"
+msgstr ""
+
+#: metaboxes/page_options.php:46
+msgid "Layout Style"
+msgstr ""
+
+#: metaboxes/page_options.php:51
+msgid "Boxed"
+msgstr ""
+
+#: metaboxes/page_options.php:52
+msgid "Wide"
+msgstr ""
+
+#: metaboxes/page_options.php:87
+msgid "Header - Breadcrumb"
+msgstr ""
+
+#: metaboxes/page_options.php:94
+msgid "Header Layout"
+msgstr ""
+
+#: metaboxes/page_options.php:99
+msgid "Header Layout 1"
+msgstr ""
+
+#: metaboxes/page_options.php:100
+msgid "Header Layout 2"
+msgstr ""
+
+#: metaboxes/page_options.php:101
+msgid "Header Layout 3"
+msgstr ""
+
+#: metaboxes/page_options.php:102
+msgid "Header Layout 4"
+msgstr ""
+
+#: metaboxes/page_options.php:103
+msgid "Header Layout 5"
+msgstr ""
+
+#: metaboxes/page_options.php:104
+msgid "Header Layout 6"
+msgstr ""
+
+#: metaboxes/page_options.php:105
+msgid "Header Layout 7"
+msgstr ""
+
+#: metaboxes/page_options.php:111
+msgid "Top Header Transparent"
+msgstr ""
+
+#: metaboxes/page_options.php:115 metaboxes/page_options.php:147
+#: metaboxes/page_options.php:158 metaboxes/page_options.php:169
+#: metaboxes/page_options.php:194
+msgid "Yes"
+msgstr ""
+
+#: metaboxes/page_options.php:116 metaboxes/page_options.php:148
+#: metaboxes/page_options.php:159 metaboxes/page_options.php:170
+#: metaboxes/page_options.php:195
+msgid "No"
+msgstr ""
+
+#: metaboxes/page_options.php:123
+msgid "Top Header Text Color"
+msgstr ""
+
+#: metaboxes/page_options.php:124
+msgid "Available when Top Header Transparent is enabled"
+msgstr ""
+
+#: metaboxes/page_options.php:128 widgets/mailchimp_subscription.php:106
+msgid "Light"
+msgstr ""
+
+#: metaboxes/page_options.php:134
+msgid "Primary Menu"
+msgstr ""
+
+#: metaboxes/page_options.php:142
+msgid "Display Vertical Menu By Default"
+msgstr ""
+
+#: metaboxes/page_options.php:143
+msgid ""
+"If this option is enabled, you wont need to hover to see the vertical menu"
+msgstr ""
+
+#: metaboxes/page_options.php:154
+msgid "Show Page Title"
+msgstr ""
+
+#: metaboxes/page_options.php:165
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: metaboxes/page_options.php:176
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: metaboxes/page_options.php:181
+msgid "Breadcrumb Layout 1"
+msgstr ""
+
+#: metaboxes/page_options.php:182
+msgid "Breadcrumb Layout 2"
+msgstr ""
+
+#: metaboxes/page_options.php:183
+msgid "Breadcrumb Layout 3"
+msgstr ""
+
+#: metaboxes/page_options.php:189
+msgid "Breadcrumb Background Parallax"
+msgstr ""
+
+#: metaboxes/page_options.php:208
+msgid "Logo"
+msgstr ""
+
+#: metaboxes/page_options.php:215
+msgid "Mobile Logo"
+msgstr ""
+
+#: metaboxes/page_options.php:222
+msgid "Sticky Logo"
+msgstr ""
+
+#: metaboxes/page_options.php:229 metaboxes/page_options.php:244
+msgid "Page Slider"
+msgstr ""
+
+#: metaboxes/page_options.php:237
+msgid "No Slider"
+msgstr ""
+
+#: metaboxes/page_options.php:239
+msgid "Revolution Slider"
+msgstr ""
+
+#: metaboxes/page_options.php:252
+msgid "Page Slider Position"
+msgstr ""
+
+#: metaboxes/page_options.php:256
+msgid "Before Header"
+msgstr ""
+
+#: metaboxes/page_options.php:257
+msgid "Before Main Content"
+msgstr ""
+
+#: metaboxes/page_options.php:265
+msgid "Select a slider"
+msgstr ""
+
+#: metaboxes/page_options.php:286
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: metaboxes/page_options.php:295
+msgid "Page Footer"
+msgstr ""
+
+#: metaboxes/page_options.php:296
+msgid ""
+"You also need to add the TS - Footer Block widget to Footer (Copyright) "
+"Widget Area"
+msgstr ""
+
+#: metaboxes/page_options.php:302
+msgid "Footer Widget Area"
+msgstr ""
+
+#: metaboxes/page_options.php:310
+msgid "Footer Copyright Widget Area"
+msgstr ""
+
+#: metaboxes/metaboxes.php:15
+msgid "Page Options"
+msgstr ""
+
+#: metaboxes/metaboxes.php:20
+msgid "Testimonial Details"
+msgstr ""
+
+#: metaboxes/metaboxes.php:25
+msgid "Member Information"
+msgstr ""
+
+#: metaboxes/metaboxes.php:30
+msgid "Portfolio Options"
+msgstr ""
+
+#: metaboxes/metaboxes.php:35
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: metaboxes/metaboxes.php:42
+msgid "Logo Options"
+msgstr ""
+
+#: metaboxes/metaboxes.php:47
+msgid "Product Options"
+msgstr ""
+
+#: metaboxes/metaboxes.php:52
+msgid "Post Options"
+msgstr ""
+
+#: metaboxes/metaboxes.php:57
+msgid "Post Gallery"
+msgstr ""
+
+#: metaboxes/metaboxes.php:187
+msgid "Select Image"
+msgstr ""
+
+#: metaboxes/metaboxes.php:188
+msgid "Clear Image"
+msgstr ""
+
+#: metaboxes/metaboxes.php:224
+msgid "Add Images"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:6
+msgid "Gravatar Email Address"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:7
+msgid ""
+"Enter an e-mail address to display Gravatar profile image instead of using "
+"the \"Featured Image\". You have to remove the \"Featured Image\"."
+msgstr ""
+
+#: metaboxes/testimonial_options.php:13
+msgid "Byline"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:14
+msgid ""
+"Enter a byline for the customer giving this testimonial. For example: CEO of "
+"Theme-Sky"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:21
+msgid ""
+"Enter an URL that applies to this customer. For example: http://theme-sky."
+"com/"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:27
+msgid "Rating"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:31
+msgid "no rating"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:32
+msgid "1 star"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:33
+msgid "1.5 star"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:34
+msgid "2 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:35
+msgid "2.5 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:36
+msgid "3 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:37
+msgid "3.5 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:38
+msgid "4 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:39
+msgid "4.5 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:40
+msgid "5 stars"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:13
+msgid ""
+"Shows list of product colors which let you filter product when viewing "
+"product categories. You have to have product attribute with slug \"color\""
+msgstr ""
+
+#: widgets/product_filter_by_color.php:14
+msgid "TS - Product Filter By Color"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:178
+#: widgets/product_filter_by_availability.php:110
+msgid "Title:"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:182
+msgid "Query Type:"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:184
+msgid "AND"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:185
+msgid "OR"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:13
+msgid "Display Mailchimp Subscription Form"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:14
+msgid "TS - Mailchimp Subscription"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:82
+msgid "Select Form"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:91
+msgid "Enter title"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:95
+msgid "Enter intro text"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:99
+msgid "Background image"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:103
+msgid "Text Style"
+msgstr ""
+
+#: widgets/products_tabs.php:13
+msgid "Display your products in vertical tabs. Each tab contains one product"
+msgstr ""
+
+#: widgets/products_tabs.php:14
+msgid "TS - Products Tabs"
+msgstr ""
+
+#: widgets/products_tabs.php:189 widgets/gravatar_profile.php:101
+#: widgets/flickr.php:118 widgets/recent_comments.php:155
+#: widgets/product_categories.php:116 widgets/social_icons.php:137
+#: widgets/facebook_page.php:82 widgets/products.php:248 widgets/blogs.php:288
+#: widgets/instagram.php:107 widgets/twitter.php:180
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/products_tabs.php:194 widgets/products.php:253
+msgid "Product type"
+msgstr ""
+
+#: widgets/products_tabs.php:196 widgets/products.php:255
+msgid "Recent"
+msgstr ""
+
+#: widgets/products_tabs.php:197 widgets/products.php:256
+msgid "Sale"
+msgstr ""
+
+#: widgets/products_tabs.php:198 widgets/products.php:257
+msgid "Featured"
+msgstr ""
+
+#: widgets/products_tabs.php:199 widgets/products.php:258
+msgid "Best selling"
+msgstr ""
+
+#: widgets/products_tabs.php:200 widgets/products.php:259
+msgid "Top rated"
+msgstr ""
+
+#: widgets/products_tabs.php:201 widgets/products.php:260
+msgid "Mixed order"
+msgstr ""
+
+#: widgets/products_tabs.php:206 widgets/product_categories.php:132
+#: widgets/products.php:265 widgets/blogs.php:318
+msgid "Select categories"
+msgstr ""
+
+#: widgets/products_tabs.php:225 widgets/products.php:289 widgets/blogs.php:293
+msgid "Number of posts to show"
+msgstr ""
+
+#: widgets/products_tabs.php:231 widgets/products.php:295
+msgid "Show thumbnail"
+msgstr ""
+
+#: widgets/products_tabs.php:236 widgets/products.php:300
+msgid "Show categories"
+msgstr ""
+
+#: widgets/products_tabs.php:241 widgets/products.php:305
+msgid "Show product title"
+msgstr ""
+
+#: widgets/products_tabs.php:246 widgets/products.php:310
+msgid "Show price"
+msgstr ""
+
+#: widgets/products_tabs.php:251 widgets/products.php:315
+msgid "Show rating"
+msgstr ""
+
+#: widgets/products_tabs.php:256
+msgid "Show tab number"
+msgstr ""
+
+#: widgets/products_tabs.php:261 widgets/products.php:328
+msgid "Thumbnail border"
+msgstr ""
+
+#: widgets/gravatar_profile.php:13
+msgid "Display a mini version of your Gravatar Profile"
+msgstr ""
+
+#: widgets/gravatar_profile.php:14
+msgid "TS - Gravatar Profile"
+msgstr ""
+
+#: widgets/gravatar_profile.php:106
+msgid "User"
+msgstr ""
+
+#: widgets/gravatar_profile.php:109
+msgid "Custom"
+msgstr ""
+
+#: widgets/gravatar_profile.php:116
+msgid "Select a user or pick \"Custom\" and enter a custom email address below"
+msgstr ""
+
+#: widgets/gravatar_profile.php:120
+msgid "Custom email address"
+msgstr ""
+
+#: widgets/gravatar_profile.php:126
+msgid "Show social icons"
+msgstr ""
+
+#: widgets/gravatar_profile.php:130
+msgid "Edit Your Profile"
+msgstr ""
+
+#: widgets/gravatar_profile.php:131
+msgid "What is Gravatar?"
+msgstr ""
+
+#: widgets/flickr.php:13
+msgid "Display your photos from Flickr"
+msgstr ""
+
+#: widgets/flickr.php:14
+msgid "TS - Flickr"
+msgstr ""
+
+#: widgets/flickr.php:122
+msgid "Flickr ID"
+msgstr ""
+
+#: widgets/flickr.php:126 widgets/instagram.php:115
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/flickr.php:130 widgets/instagram.php:119
+msgid "Column"
+msgstr ""
+
+#: widgets/flickr.php:138
+msgid "Display"
+msgstr ""
+
+#: widgets/flickr.php:140
+msgid "Latest"
+msgstr ""
+
+#: widgets/flickr.php:141 widgets/product_categories.php:156
+#: widgets/blogs.php:305
+msgid "Random"
+msgstr ""
+
+#: widgets/flickr.php:145 widgets/instagram.php:127
+msgid "Size"
+msgstr ""
+
+#: widgets/flickr.php:147
+msgid "Standard"
+msgstr ""
+
+#: widgets/flickr.php:148
+msgid "Medium"
+msgstr ""
+
+#: widgets/flickr.php:149 widgets/instagram.php:129
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/flickr.php:153 widgets/instagram.php:143 widgets/twitter.php:200
+msgid "Cache time (hours)"
+msgstr ""
+
+#: widgets/recent_comments.php:13
+msgid "Display recent comments on site"
+msgstr ""
+
+#: widgets/recent_comments.php:14
+msgid "TS - Recent Comments"
+msgstr ""
+
+#: widgets/recent_comments.php:151
+msgid "All Posts"
+msgstr ""
+
+#: widgets/recent_comments.php:160
+msgid "Post type"
+msgstr ""
+
+#: widgets/recent_comments.php:169
+msgid "Number of comments to show"
+msgstr ""
+
+#: widgets/recent_comments.php:175
+msgid "Show avatar"
+msgstr ""
+
+#: widgets/recent_comments.php:180
+msgid "Show comment date"
+msgstr ""
+
+#: widgets/recent_comments.php:185
+msgid "Show comment author"
+msgstr ""
+
+#: widgets/recent_comments.php:190
+msgid "Show comment content"
+msgstr ""
+
+#: widgets/recent_comments.php:197 widgets/products.php:335
+#: widgets/blogs.php:380
+msgid "Show in a carousel slider"
+msgstr ""
+
+#: widgets/recent_comments.php:201 widgets/products.php:284
+#: widgets/blogs.php:384
+msgid "Number of rows - in carousel slider"
+msgstr ""
+
+#: widgets/recent_comments.php:207 widgets/products.php:340
+#: widgets/blogs.php:390
+msgid "Show navigation button"
+msgstr ""
+
+#: widgets/recent_comments.php:212 widgets/products.php:345
+#: widgets/blogs.php:395
+msgid "Auto play"
+msgstr ""
+
+#: widgets/footer_block.php:13
+msgid "Insert your footer block"
+msgstr ""
+
+#: widgets/footer_block.php:14
+msgid "TS - Footer Block"
+msgstr ""
+
+#: widgets/footer_block.php:60
+msgid "Footer Block"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:13
+msgid "Filter in stock or out of stock products"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:14
+msgid "TS - Product Filter By Availability"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:78
+msgid "In stock"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:82
+msgid "Out of stock"
+msgstr ""
+
+#: widgets/product_categories.php:13
+msgid "Display Your Product Categories"
+msgstr ""
+
+#: widgets/product_categories.php:14
+msgid "TS - Product Categories"
+msgstr ""
+
+#: widgets/product_categories.php:121
+msgid "Show post count"
+msgstr ""
+
+#: widgets/product_categories.php:125
+msgid "Show sub categories"
+msgstr ""
+
+#: widgets/product_categories.php:129
+msgid "Hide empty categories"
+msgstr ""
+
+#: widgets/product_categories.php:148
+msgid "Dont select to show all"
+msgstr ""
+
+#: widgets/product_categories.php:151 widgets/blogs.php:298
+msgid "Order by"
+msgstr ""
+
+#: widgets/product_categories.php:153
+msgid "Name"
+msgstr ""
+
+#: widgets/product_categories.php:154
+msgid "Slug"
+msgstr ""
+
+#: widgets/product_categories.php:155
+msgid "Number product"
+msgstr ""
+
+#: widgets/product_categories.php:157 widgets/blogs.php:300
+msgid "None"
+msgstr ""
+
+#: widgets/product_categories.php:161 widgets/blogs.php:310
+msgid "Order"
+msgstr ""
+
+#: widgets/product_categories.php:163 widgets/blogs.php:312
+msgid "Ascending"
+msgstr ""
+
+#: widgets/product_categories.php:164 widgets/blogs.php:313
+msgid "Descending"
+msgstr ""
+
+#: widgets/social_icons.php:13
+msgid "Display Your Social Icons"
+msgstr ""
+
+#: widgets/social_icons.php:14
+msgid "TS - Social Icons"
+msgstr ""
+
+#: widgets/social_icons.php:56
+msgid "Become our fan"
+msgstr ""
+
+#: widgets/social_icons.php:56
+msgid "Facebook"
+msgstr ""
+
+#: widgets/social_icons.php:59
+msgid "Follow us"
+msgstr ""
+
+#: widgets/social_icons.php:59
+msgid "Twitter"
+msgstr ""
+
+#: widgets/social_icons.php:62 widgets/social_icons.php:80
+msgid "See Us"
+msgstr ""
+
+#: widgets/social_icons.php:62
+msgid "Flickr"
+msgstr ""
+
+#: widgets/social_icons.php:65 widgets/social_icons.php:71
+msgid "Watch Us"
+msgstr ""
+
+#: widgets/social_icons.php:65
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/social_icons.php:68
+msgid "Get updates"
+msgstr ""
+
+#: widgets/social_icons.php:68
+msgid "RSS"
+msgstr ""
+
+#: widgets/social_icons.php:71
+msgid "Youtube"
+msgstr ""
+
+#: widgets/social_icons.php:74
+msgid "Call Us"
+msgstr ""
+
+#: widgets/social_icons.php:74
+msgid "Viber"
+msgstr ""
+
+#: widgets/social_icons.php:77
+msgid "Chat With Us"
+msgstr ""
+
+#: widgets/social_icons.php:77
+msgid "Skype"
+msgstr ""
+
+#: widgets/social_icons.php:80
+msgid "Instagram"
+msgstr ""
+
+#: widgets/social_icons.php:141
+msgid "Enter description about your social icons"
+msgstr ""
+
+#: widgets/social_icons.php:145
+msgid "Style"
+msgstr ""
+
+#: widgets/social_icons.php:147
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/social_icons.php:148
+msgid "Vertical"
+msgstr ""
+
+#: widgets/social_icons.php:149
+msgid "Fill background"
+msgstr ""
+
+#: widgets/social_icons.php:150
+msgid "Light opacity"
+msgstr ""
+
+#: widgets/social_icons.php:154
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/social_icons.php:158
+msgid "Twitter URL"
+msgstr ""
+
+#: widgets/social_icons.php:162
+msgid "Flickr URL"
+msgstr ""
+
+#: widgets/social_icons.php:166
+msgid "Vimeo URL"
+msgstr ""
+
+#: widgets/social_icons.php:170
+msgid "FeedBurner URL"
+msgstr ""
+
+#: widgets/social_icons.php:175
+msgid "Youtube URL"
+msgstr ""
+
+#: widgets/social_icons.php:179
+msgid "Viber Number"
+msgstr ""
+
+#: widgets/social_icons.php:183
+msgid "Skype Username"
+msgstr ""
+
+#: widgets/social_icons.php:187
+msgid "Instagram URL"
+msgstr ""
+
+#: widgets/social_icons.php:196
+msgid "Custom Text - Show on tooltip"
+msgstr ""
+
+#: widgets/social_icons.php:200
+msgid "Custom Font - Use FontAwesome class"
+msgstr ""
+
+#: widgets/social_icons.php:205
+msgid "Show Tooltip"
+msgstr ""
+
+#: widgets/facebook_page.php:13
+msgid "Display the Facebook Page"
+msgstr ""
+
+#: widgets/facebook_page.php:14
+msgid "TS - Facebook Page"
+msgstr ""
+
+#: widgets/facebook_page.php:86
+msgid "Facebook page URL"
+msgstr ""
+
+#: widgets/facebook_page.php:91
+msgid "Show Faces"
+msgstr ""
+
+#: widgets/facebook_page.php:95
+msgid "Show Posts"
+msgstr ""
+
+#: widgets/facebook_page.php:99
+msgid "Show cover photo"
+msgstr ""
+
+#: widgets/facebook_page.php:103
+msgid "Small header"
+msgstr ""
+
+#: widgets/facebook_page.php:107
+msgid "Box height"
+msgstr ""
+
+#: widgets/single_image.php:13
+msgid "Display a single image"
+msgstr ""
+
+#: widgets/single_image.php:14
+msgid "TS - Single Image"
+msgstr ""
+
+#: widgets/single_image.php:70
+msgid "Link"
+msgstr ""
+
+#: widgets/single_image.php:74
+msgid "Link title"
+msgstr ""
+
+#: widgets/single_image.php:86
+msgid "Image URL"
+msgstr ""
+
+#: widgets/single_image.php:90
+msgid "Style Effect"
+msgstr ""
+
+#: widgets/single_image.php:92
+msgid "Widespread Corner"
+msgstr ""
+
+#: widgets/single_image.php:93
+msgid "Border Scale"
+msgstr ""
+
+#: widgets/single_image.php:97
+msgid "Style Effect Color"
+msgstr ""
+
+#: widgets/products.php:13
+msgid "Display your products on site"
+msgstr ""
+
+#: widgets/products.php:14
+msgid "TS - Products"
+msgstr ""
+
+#: widgets/products.php:319
+msgid "Thumbnail style"
+msgstr ""
+
+#: widgets/products.php:322
+msgid "Big"
+msgstr ""
+
+#: widgets/blogs.php:13
+msgid "Display blogs on site"
+msgstr ""
+
+#: widgets/blogs.php:14
+msgid "TS - Blogs"
+msgstr ""
+
+#: widgets/blogs.php:301
+msgid "ID"
+msgstr ""
+
+#: widgets/blogs.php:302
+msgid "Title"
+msgstr ""
+
+#: widgets/blogs.php:303
+msgid "Date"
+msgstr ""
+
+#: widgets/blogs.php:304
+msgid "Comment count"
+msgstr ""
+
+#: widgets/blogs.php:338
+msgid "Show post thumbnail"
+msgstr ""
+
+#: widgets/blogs.php:343
+msgid "Show post title"
+msgstr ""
+
+#: widgets/blogs.php:348
+msgid "Show post date"
+msgstr ""
+
+#: widgets/blogs.php:353
+msgid "Show post author"
+msgstr ""
+
+#: widgets/blogs.php:358
+msgid "Show post comment"
+msgstr ""
+
+#: widgets/blogs.php:363
+msgid "Show post view"
+msgstr ""
+
+#: widgets/blogs.php:368
+msgid "Show post excerpt"
+msgstr ""
+
+#: widgets/blogs.php:372
+msgid "Number of words in excerpt"
+msgstr ""
+
+#: widgets/instagram.php:13
+msgid "Display your photos from Instagram"
+msgstr ""
+
+#: widgets/instagram.php:14
+msgid "TS - Instagram"
+msgstr ""
+
+#: widgets/instagram.php:111 widgets/twitter.php:184
+msgid "Username"
+msgstr ""
+
+#: widgets/instagram.php:130
+msgid "Small"
+msgstr ""
+
+#: widgets/instagram.php:131
+msgid "Large"
+msgstr ""
+
+#: widgets/instagram.php:132
+msgid "Original"
+msgstr ""
+
+#: widgets/instagram.php:139
+msgid "New window tab"
+msgstr ""
+
+#: widgets/instagram.php:166
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: widgets/instagram.php:170
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: widgets/instagram.php:178 widgets/instagram.php:186
+#: widgets/instagram.php:190
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: widgets/instagram.php:202
+msgid "Instagram Image"
+msgstr ""
+
+#: widgets/instagram.php:224
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: widgets/twitter.php:13
+msgid "Display latest tweets"
+msgstr ""
+
+#: widgets/twitter.php:14
+msgid "TS - Twitter"
+msgstr ""
+
+#: widgets/twitter.php:188
+msgid "Limit"
+msgstr ""
+
+#: widgets/twitter.php:193
+msgid "Exclude replies"
+msgstr ""
+
+#: widgets/twitter.php:197
+msgid "Relative time"
+msgstr ""
+
+#: widgets/twitter.php:205
+msgid "API Keys:"
+msgstr ""
+
+#: widgets/twitter.php:205
+msgid "if you dont input your API Keys, it will use our API Keys."
+msgstr ""
+
+#: widgets/twitter.php:208
+msgid "Consumer key"
+msgstr ""
+
+#: widgets/twitter.php:212
+msgid "Consumer secret"
+msgstr ""
+
+#: widgets/twitter.php:216
+msgid "Access token"
+msgstr ""
+
+#: widgets/twitter.php:220
+msgid "Access token secret"
+msgstr ""
+
+#. Name of the plugin
+msgid "ThemeSky"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add shortcodes and custom post types for BoxShop Theme"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://theme-sky.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeSky Team"
+msgstr ""
