@@ -5,7 +5,7 @@ Description: A plugin to display availability calendar for product  functionalit
 Author: NetScore
 Version: 3.0
 */
-
+/* Commit Test Message */
 function product_availabilty_table_install(){
   $custom_id=283;
   global $custom_id;
