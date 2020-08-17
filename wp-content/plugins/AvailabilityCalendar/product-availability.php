@@ -8,6 +8,7 @@ Version: 3.0
 /* Commit Test Message */
 function product_availabilty_table_install(){
   $custom_id=283;
+  $custom_id=284;
   global $custom_id;
   global $wpdb;
   global $wnm_db_version;
