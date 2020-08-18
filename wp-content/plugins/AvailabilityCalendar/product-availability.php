@@ -5,10 +5,9 @@ Description: A plugin to display availability calendar for product  functionalit
 Author: NetScore
 Version: 3.0
 */
-/* Commit Test Message */
+
 function product_availabilty_table_install(){
   $custom_id=283;
-  $custom_id=284;
   global $custom_id;
   global $wpdb;
   global $wnm_db_version;
@@ -108,27 +107,81 @@ function my_footer_scripts(){
 
 jQuery(function() {
   
- // jQuery('#inlineDatepicker').datepick({});
- jQuery('.inlineDatepicker').datepick({showTrigger: '#calImg'});
+ // jQuery('#').datepick({});
+//  jQuery('.inlineDatepicker').datepick({showTrigger: '#calImg'});
+jQuery('.inlineDatepicker').datepick({onSelect: addPeriods,multiSelect: 999});
 
 });
 
-jQuery('.inlineDatepicker').datepick({onSelect: addPeriods,beforeShowDay: DisableDates,prevText: '< M', todayText: 'M yyyy', nextText: 'M >', 
-    commandsAsDateFormat: true,rangeSelect: true,dateFormat: 'dd/mm/yy'}).
-datepick('setDate', new Date());
-jQuery('#addAmount,#addPeriod').change(addPeriods);
+// jQuery('.inlineDatepicker').datepick({onSelect: addPeriods,prevText: '< M', todayText: 'M yyyy', nextText: 'M >', 
+//     commandsAsDateFormat: true,rangeSelect: true,dateFormat: 'dd/mm/yy'}).
+// startdate=datepick('setDate', new Date());
+
+// jQuery('#addAmount,#addPeriod').change(addPeriods);
 
 function addPeriods() {
 
   var date = new Date(jQuery('.inlineDatepicker').datepick('getDate')[0].getTime());
- jQuery.datepick.add(date, parseInt(jQuery('#addAmount').val(), 10), jQuery('#addPeriod').val());
-  jQuery('.addedDate').val(jQuery.datepick.formatDate(date));
-  var selected_setofdates= jQuery.datepick.formatDate(date);
-  var IntialDate=jQuery('.inlineDatepicker').datepick('getDate')[0];
-  console.log(IntialDate);
-  console.log(date);
-alert(selected_setofdates);
+  if(date && jQuery('#addAmount').val()){
+        jQuery.datepick.add(date, (parseInt(jQuery('#addAmount').val(), 10)-1), jQuery('#addPeriod').val());
+      jQuery('.addedDate').val(jQuery.datepick.formatDate(date));
+      var selected_setofdates= jQuery.datepick.formatDate(date);
+      var IntialDate=jQuery('.inlineDatepicker').datepick('getDate')[0];
+      console.log(IntialDate);
+      console.log(date);
+    alert(selected_setofdates);
+    var getDateArray = function(IntialDate, date) {
+        var arr = new Array();
+
+        var dt = new Date(IntialDate);
+        while (dt <= date) {
+          var formatDate = (new Date(dt).getMonth()+1) + "/"+new Date(dt).getDate() + "/"+new Date(dt).getFullYear();
+            arr.push(formatDate);
+            dt.setDate(dt.getDate() + 1);
+        }
+        return arr;
+    }
+
+    var dateArr = getDateArray(IntialDate, date);
+
+    // Output
+    // document.write("<p>Start Date: " + IntialDate + "</p>");
+    // document.write("<p>End Date: " + date + "</p>");
+    // document.write("<p>Date Array</p>")
+    console.log('Date test');
+    // for (var i = 0; i < dateArr.length; i++) {
+    // //alert("hi");
+    // var dateFormatConversion = dateFormat(dateArr[i]);
+
+    // 	console.log(dateFormatConversion);
+    //   //document.write("<p class='selecteddates' style='display:none'>" + dateArr[i] + "</p>");
+    // }
+    // jQuery('.inlineDatepicker').datepick({ 
+    //     minDate: '08/20/2020', maxDate: '08/26/2020'
+    // });
+    // var dates = '08/11/2020,08/12/2020,08/13/2020'.split(','); 
+    jQuery('.inlineDatepicker').datepick('setDate', dateArr); 
+     
+    var selected= dateArr.val( (jQuery('.datepick-selected').val() || 'blank') + '\n'); 
+    console.log(selected);
+
+  }
+ 
+
 }
+function dateFormat(d){
+  return d.getDate() + "/"+(d.getMonth()+1) +"/"+d.getFullYear();
+  
+}
+ 
+function ConvertedDisableDates(date) {
+  var dates = ["20/01/2018", "21/01/2018", "22/01/2018", "23/01/2018"];
+    var string = jQuery.datepick.formatDate('dd/mm/yy', date);
+    return [dates.indexOf(string) == -1];
+}
+
+
+//o/p
   function getDates(IntialDate, selected_setofdates) {
       var dateArray = new Array();
       var currentDate = IntialDate;
@@ -147,10 +200,10 @@ function DisableDates(dates) {
 }
 var dates = jQuery('.addedDate').datepick('getDate');
 
-jQuery(".inlineDatepicker").click(function(){
-     var id = this.id;
-     console.log(id);
-});
+// jQuery(".inlineDatepicker").click(function(){
+//      var id = this.id;
+//      console.log(id);
+// });
 
     </script>
 
